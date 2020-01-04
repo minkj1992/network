@@ -7,7 +7,7 @@
         - 휴대전화나 스마트폰을 연결하는 모바일 네트워크
     2. 컴퓨터 네트워크의 역할
     3. 서버와 클라이언트
-        - 서버와 클라이언트의 저으이
+        - 서버와 클라이언트의 정의
         - 피어 투 피어(P2P)
     4. 패킷 교환 방식
         - 패킷 교환 방식이란?
@@ -101,6 +101,7 @@
 # CH03
 ## 3-3 TCP가 정확하게 데이터를 전달하는 방법
 ### tcp 헤더의 구조 (segment)
+- [http와 tcp(3way handswake)](https://www.joinc.co.kr/w/man/12/websocket)
 - TCP HEADER
     - source port(송신지 포트 번호)
     - destination port(수신지 포트 번호)
